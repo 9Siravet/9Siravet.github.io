@@ -1,4 +1,4 @@
-Keyword : Null cipher
+-Keyword : Null cipher
 - CISSP Glossary 
 Null cipher : Hiding plaintext within other plaintext. A form of steganography.
 ChatGPT : การซ่อนข้อความธรรมดา (plaintext) ไว้ภายในข้อความธรรมดาอื่นๆ เป็นรูปแบบหนึ่งของการ สเตกาโนกราฟี (steganography) หรือการซ่อนข้อมูล.
