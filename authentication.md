@@ -2,7 +2,7 @@
 - CISSP Glossary 
 - Null cipher : Hiding plaintext within other plaintext. A form of steganography.
 - ChatGPT : การซ่อนข้อความธรรมดา (plaintext) ไว้ภายในข้อความธรรมดาอื่นๆ เป็นรูปแบบหนึ่งของการ สเตกาโนกราฟี (steganography) หรือการซ่อนข้อมูล.
-- Gemini : รหัสลับแบบ Null cipher เป็นวิธีการซ่อนข้อความโดยการฝังข้อความต้นฉบับ (plaintext) ไว้ภายในข้อความปกติ (covertext) อีกข้อความหนึ่ง เป็นรูปแบบหนึ่งของสเตกาโนกราฟี (Steganography)
+  - Gemini : รหัสลับแบบ Null cipher เป็นวิธีการซ่อนข้อความโดยการฝังข้อความต้นฉบับ (plaintext) ไว้ภายในข้อความปกติ (covertext) อีกข้อความหนึ่ง เป็นรูปแบบหนึ่งของสเตกาโนกราฟี (Steganography)
 
 
 
