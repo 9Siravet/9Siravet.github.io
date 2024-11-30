@@ -4,7 +4,7 @@
 
 - ChatGPT : การซ่อนข้อความธรรมดา (plaintext) ไว้ภายในข้อความธรรมดาอื่นๆ เป็นรูปแบบหนึ่งของการ สเตกาโนกราฟี (steganography) หรือการซ่อนข้อมูล.
 
-- Gemini : รหัสลับแบบ Null cipher เป็นวิธีการซ่อนข้อความโดยการฝังข้อความต้นฉบับ (plaintext) ไว้ภายในข้อความปกติ (covertext) อีกข้อความหนึ่ง เป็นรูปแบบหนึ่งของสเตกาโนกราฟี (Steganography)
+- Gemini : รหัสลับแบบ Null cipher เป็นวิธีการซ่อนข้อความโดยการฝังข้อความต้นฉบับ (plaintext) ไว้ภายในข้อความปกติ (covertext) อีกข้อความหนึ่ง เป็นรูปแบบหนึ่งของสเตกาโนกราฟี (Steganography).
 
 - 2nd Source (Wikipedia)
 - Null cipher : an ancient form of encryption where the plaintext is mixed with a large amount of non-cipher material.
