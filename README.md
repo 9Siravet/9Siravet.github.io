@@ -1,6 +1,6 @@
 # 9Siravet.github.io
 
--![siravet](siravet.jpg)
+-![Mypic/siravet](Mypic/siravet.jpg)
 - My name is Siravet Nijnirundkul
   - Ping  
   - 6530200487  
