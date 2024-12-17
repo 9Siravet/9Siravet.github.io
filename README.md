@@ -8,4 +8,4 @@
 
 
 -[nullcipher](null_cipher)
--[e-card](e-card_christmas)
+-[ecard](e-card_christmas)
