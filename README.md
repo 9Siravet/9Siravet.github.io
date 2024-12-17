@@ -8,5 +8,3 @@
 
 
 -[nullcipher](null_cipher)
-
--[e-card christmas](Mypic/e-card.png)
