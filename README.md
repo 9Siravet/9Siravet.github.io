@@ -7,6 +7,6 @@
  
 
 
--[nullcipher](null_cipher)
+-[nullcipher](null-cipher)
 
 -[ecard](e-card_christmas)
