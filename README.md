@@ -1,14 +1,19 @@
-# 9Siravet.github.io
+# 🌐 9Siravet.github.io  
 
--![Mypic/siravet](Mypic/siravet.jpg)
-- My name is Siravet Nijnirundkul
-  - Ping  
-  - 6530200487  
- 
+![Profile Picture](Mypic/siravet.jpg)  
 
+## 👤 About Me  
+- **Name**: Siravet Nijnirundkul  
+  - **Nickname**: Ping  
+  - **ID**: 6530200487  
 
--[nullcipher](null-cipher)
+---
 
--[ecard](e-card_christmas)
+## 🌟 Projects  
+- [🔑 Null Cipher](null-cipher)  
+- [🎄 E-Card (Christmas Edition)](e-card_christmas)  
+- [📊 Data Completeness](Completeness)  
 
--[Completeness](Completeness)
+---
+
+✨ Thank you for visiting my site! 😊  
