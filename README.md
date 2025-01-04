@@ -12,7 +12,7 @@
 ## 🌟 Projects  
 - [🔑 Null Cipher](null-cipher)  
 - [🎄 E-Card (Christmas Edition)](e-card_christmas)  
-- [📊 Data completeness](completeness)  
+- [📊 completeness](completeness)  
 
 ---
 
