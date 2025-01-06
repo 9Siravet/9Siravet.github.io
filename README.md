@@ -1,34 +1,40 @@
-# 🌐 Welcome to 9Siravet.github.io  
+# 🌐 **9Siravet.github.io**  
 
-<div align="center">
-    <img src="Mypic/siravet.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;">
-</div>  
+<img src="Mypic/siravet.jpg" alt="Profile Picture" width="200" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;">  
 
 ---
 
-## 👤 About Me  
-🎓 **Name**: Siravet Nijnirundkul  
-🧑‍🎓 **Nickname**: Ping  
-🆔 **ID**: 6530200487  
+## 👤 **About Me**  
+- **Name**: Siravet Nijnirundkul  
+  - **Nickname**: Ping  
+  - **Student ID**: 6530200487  
 
 ---
 
-## 🌟 My Projects  
-Here are some of the projects I’ve worked on:  
-1. [🔑 **Null Cipher**](null-cipher)  
-   *A simple cryptography tool to explore encoding and decoding messages.*  
+## 🌟 **Projects**  
+### 🔑 **Null Cipher**  
+A project focusing on cryptographic techniques and encoding.  
+[Explore here ➡️](null-cipher)  
 
-2. [🎄 **E-Card (Christmas Edition)**](e-card_christmas)  
-   *Create and share digital Christmas greetings!*  
+### 🎄 **E-Card (Christmas Edition)**  
+An interactive and fun e-card celebrating the joy of Christmas!  
+[Check it out ➡️](e-card_christmas)  
 
-3. [📊 **Completeness**](completeness)  
-   *A data visualization project showcasing statistical completeness.*  
+### 📊 **Completeness**  
+A project analyzing and visualizing data completeness in various datasets.  
+[Learn more ➡️](completeness)  
 
-4. [🎲 **Boardgame**](boardgame)  
-   *An interactive online board game for friends and family.*  
+### 🎲 **Boardgame**  
+A digital recreation of boardgame mechanics with added fun twists.  
+[Play now ➡️](boardgame)  
 
 ---
 
-<div align="center">
-✨ **Thank you for visiting my site!** 😊  
-</div>
+## 💡 **Contact Me**  
+- 📧 Email: [siravet.n@ku.th]
+- 📱 Phone: 084-541-5547 
+- 🌍 Follow me on [GitHub](https://github.com/9Siravet)  
+
+
+
+### Thank you for visiting my site! 😊  
