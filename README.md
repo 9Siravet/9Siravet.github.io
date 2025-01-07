@@ -26,5 +26,8 @@
 - 🎲 [**Boardgame**](boardgame)  
 
 ---
+##  📚 **Project**  
+- 🔑 [**Tableau**](https://public.tableau.com/app/profile/siravet.nijnirundkul/viz/DashboardFinal_17292374549960/Dashboard1?publish=yes)
+
 
 ✨ Thank you for visiting my site! 😊  
