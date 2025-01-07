@@ -36,6 +36,11 @@
 ---
 
 ##  📁 **Certificates** 
-- 📁 [**JAVA**](https://drive.google.com/file/d/1rSUy7AbQbMo4NZM8R3oP5hc2bzOGZ6DG/view)
+- 📁 [**JAVA**](java.png)
+- 📁 [**Onramp**](Onramp.pdf)
+- 📁 [**MATHLAB**](MATHLAB.pdf)
+- 📁 [**excel**](excel.pdf)
+
+---
 
 ✨ Thank you for visiting my site! 😊  
