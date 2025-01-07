@@ -36,10 +36,10 @@
 ---
 
 ##  📁 **Certificates** 
-- 📁 [**JAVA**](java.png)
-- 📁 [**Onramp**](Onramp.pdf)
-- 📁 [**MATHLAB**](MATHLAB.pdf)
-- 📁 [**excel**](excel.pdf)
+- 📁 [**JAVA**](certificate/java.png)
+- 📁 [**Onramp**](certificate/Onramp.pdf)
+- 📁 [**MATHLAB**](certificate/MATHLAB.pdf)
+- 📁 [**excel**](certificate/excel.pdf)
 
 ---
 
