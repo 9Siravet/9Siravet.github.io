@@ -23,7 +23,8 @@
 - 🔑 [**Null Cipher**](null-cipher)  
 - 🎄 [**E-Card (Christmas Edition)**](e-card_christmas)  
 - 📊 [**Completeness**](completeness)  
-- 🎲 [**Boardgame**](boardgame)  
+- 🎲 [**Boardgame**](boardgame)
+- 🔒 [**SecuritControls**](securityControls)
 
 ---
 ##  📚 **Project**  
