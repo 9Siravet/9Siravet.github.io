@@ -5,7 +5,7 @@ Digital Door Lock (กลอนประตูดิจิตอล)
 สถานที่: บ้านสุขสบาย หอพักเเถว มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราขา
 
 
-![keycard](Mypic/keycard.png)
+![keycard](Mypic/keycard.jpg)
 
 
 
