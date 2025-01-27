@@ -24,7 +24,7 @@
 - 🎄 [**E-Card (Christmas Edition)**](e-card_christmas)  
 - 📊 [**Completeness**](completeness)  
 - 🎲 [**Boardgame**](boardgame)
-- 🔒 [**SecuritControls**](security-control)
+- 🔒 [**Securitcontrol**](security-control)
 
 ---
 ##  📚 **Project**  
