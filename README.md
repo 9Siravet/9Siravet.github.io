@@ -7,7 +7,7 @@
 ## 👤 **Personal Profile**  
 - **Name**: Siravet Nijnirundkul  
   - **Nickname**: Ping
-  - **Age** : 21  
+  - **Age** : 22
   - **KU ID**: 6530200487
   - **University** : Kasetsart University Si Racha Campus
   - **Major** : Computer Science
